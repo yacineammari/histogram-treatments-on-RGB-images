@@ -1,0 +1,11 @@
+C:\Users\Srg_Forge\Desktop\S02\TAI\C#\tp2\TP2\bin\Debug\TP2.exe.config
+C:\Users\Srg_Forge\Desktop\S02\TAI\C#\tp2\TP2\bin\Debug\TP2.exe
+C:\Users\Srg_Forge\Desktop\S02\TAI\C#\tp2\TP2\bin\Debug\TP2.pdb
+C:\Users\Srg_Forge\Desktop\S02\TAI\C#\tp2\TP2\obj\Debug\TP2.csprojAssemblyReference.cache
+C:\Users\Srg_Forge\Desktop\S02\TAI\C#\tp2\TP2\obj\Debug\TP2.Form1.resources
+C:\Users\Srg_Forge\Desktop\S02\TAI\C#\tp2\TP2\obj\Debug\TP2.Properties.Resources.resources
+C:\Users\Srg_Forge\Desktop\S02\TAI\C#\tp2\TP2\obj\Debug\TP2.csproj.GenerateResource.cache
+C:\Users\Srg_Forge\Desktop\S02\TAI\C#\tp2\TP2\obj\Debug\TP2.csproj.CoreCompileInputs.cache
+C:\Users\Srg_Forge\Desktop\S02\TAI\C#\tp2\TP2\obj\Debug\TP2.exe
+C:\Users\Srg_Forge\Desktop\S02\TAI\C#\tp2\TP2\obj\Debug\TP2.pdb
+C:\Users\Srg_Forge\Desktop\S02\TAI\C#\tp2\TP2\obj\Debug\TP2.popup.resources
